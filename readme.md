@@ -188,7 +188,9 @@ I built a pivot table of sales by `Order_Region` and `Year`, and visualized it a
 
 I exported the cleaned data and built an interactive **Super Store Performance Overview** dashboard.
 
-🎥 Watch the dashboard demo: [Power_BI_2B_.mp4](outputs/Power_BI_2B_%20.mp4)
+- Watch the dashboard demo: [Power_BI_2B_.mp4](outputs/Power_BI_2B_%20.mp4)
+- Example of the dashboard: ![Power_BI_2B](outputs/Power_BI.png)
+
 
 **Dashboard contents:**
 
